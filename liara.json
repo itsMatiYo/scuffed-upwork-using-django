@@ -1,0 +1,11 @@
+{
+    "platform": "django",
+    "app": "programming",
+    "disks": [
+      {
+        "name": "my-it",
+        "mountTo": "media"
+      }
+    ]
+  
+  }
